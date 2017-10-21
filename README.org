@@ -4,7 +4,7 @@
 
   Status: in progress.
 
-  Dependency versions: PortMidi 217 and Chez Scheme 9.4.1
+  Dependency versions: PortMidi 217 and Chez Scheme 9.5.1
 
 * TODO Usage
 
